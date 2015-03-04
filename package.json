@@ -1,0 +1,9 @@
+{
+  "name": "ProjectsCVS2MongoDB",
+  "version": "0.0.1",
+  "dependencies": {
+    "excel": "^0.1.2",
+    "mongoose": "^3.8.24",
+    "q": "^1.2.0"
+  }
+}
